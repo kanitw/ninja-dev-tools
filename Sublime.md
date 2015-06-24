@@ -21,7 +21,7 @@ and choose `Package Control: Install Package`.
 - *AdvancedNewFile* — create new file anywhere with `cmd+opt+n`
 - *Alignment*
 - *AllAutoComplete* – extend sublime autocomplete to check all opened files.
-
+- *EasyMotion* - super fast navigation with `cmd+;+<*character-to-jump-to*>` a super plugin inspired from a famous Vim plugin.
 - *Sidebar Enhancement* – many cool add-ons to the sidebar
 
 ### Linter
