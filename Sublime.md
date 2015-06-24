@@ -16,7 +16,7 @@ and choose `Package Control: Install Package`.
 
 ![SpaceGray](http://kkga.github.io/spacegray/assets/spacegray.png)
 
-### Misc
+### Misc (Language Independent)
 
 - *AdvancedNewFile* — create new file anywhere with `cmd+opt+n`
 - *Alignment*
@@ -24,10 +24,12 @@ and choose `Package Control: Install Package`.
 - *EasyMotion* - super fast navigation with `cmd+;+<*character-to-jump-to*>` a super plugin inspired from a famous Vim plugin.
 - *Sidebar Enhancement* – many cool add-ons to the sidebar
 
-### Linter
+### Misc (Work for many languages)
 
-In general, *Sublimelinter* is great for checking syntax errors and warning for most languages.
-You will need to install its subpac
+- *Sublimelinter* is great for checking syntax errors and warning for most languages.
+You will need to install its subpackage e.g.,  **TODO**
+
+- *DocBlockr* is great for creating comments for Javascript/C.
 
 ### Git 
 - *[GitGutter](http://www.jisaacks.com/gitgutter)* – view changes in git instantly in your editor
