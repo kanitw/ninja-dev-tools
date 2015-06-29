@@ -41,3 +41,18 @@ You will need to install its subpackage e.g.,  **TODO**
 ## Keyboard Shortcuts
 
 **TODO**
+
+## Accessing Sublime from command line
+
+From https://www.sublimetext.com/docs/3/osx_command_line.html, add symlink to the `subl` binary in your preferred bin directory.  The example here assumes you have `~/bin/` created. 
+
+```
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+```
+
+If you don't have `~/bin/` created and prefer to use it, run `mkdir ~/bin` to create one.
+Then add the following line to your shell profile file (`~/.zprofile` for zsh, `~/bash_profile` for bash).
+
+```zsh
+export PATH=/usr/local/git/bin:$PATH
+```
