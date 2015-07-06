@@ -38,6 +38,10 @@ You will need to install its subpackage e.g.,  **TODO**
 
 - *Emmet* — quick html/csscoding
 
+### Markdown
+- *[MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)* - provide a number of commands for editing markdown. 
+- *[MarkdownExtended](https://packagecontrol.io/packages/Markdown%20Extended)* - extend to support yaml header and etc. 
+
 ## Keyboard Shortcuts
 
 **TODO**
