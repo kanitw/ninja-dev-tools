@@ -39,8 +39,9 @@ You will need to install its subpackage e.g.,  **TODO**
 - *Emmet* — quick html/csscoding
 
 ### Markdown
-- *[MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)* - provide a number of commands for editing markdown. 
-  - `cmd+alt+k` - insert a link
+- *[MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)* - provide a number of commands for editing markdown.  For instance:
+  - `cmd+r` will show all markdown headers in the symbol list.
+  - `cmd+alt+k` - insert a link.
 - *[MarkdownExtended](https://packagecontrol.io/packages/Markdown%20Extended)* - extend to support yaml header and etc. 
 
 ## Keyboard Shortcuts
