@@ -8,4 +8,6 @@
 
 ## Workflows
 
+- **Paste as Plain Text** - See [this link](http://www.alfredforum.com/topic/1321-wheres-plaintext-paste/) to see how you can easily create one.  I use `ctrl+opt+v` as the hotkey for this. 
+
 **TODO**
