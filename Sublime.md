@@ -41,7 +41,7 @@ You will need to install its subpackage e.g.,  **TODO**
 ### Markdown
 - *[MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)* - provide a number of commands for editing markdown.  For instance:
   - `cmd+r` will show all markdown headers in the symbol list.
-  - `cmd+alt+k` - insert a link.
+  - `cmd+alt+k` - insert a link.  Even better `cmd+alt+v` will insert a link from your clipboard. 
 - *[MarkdownExtended](https://packagecontrol.io/packages/Markdown%20Extended)* - extend to support yaml header and etc. 
 
 ## Keyboard Shortcuts
