@@ -6,6 +6,13 @@
 - **fasd** is a great way to jump around.  You must run `brew install fasd` to install `fasd` first.  
 - **[Syntax Highlighting](https://github.com/sorin-ionescu/prezto/tree/master/modules/syntax-highlighting)** helps prevent you from writing illegal commands. 
 
+
+
+- (only if you need to work from remote) **screen** - besides the shortkey included in the package, I found it useful to add the following shortkey.
+```
+alias snk="scrn kanitw"
+alias sk="screen -x -U -A kanitw"
+```
 ## Other Related Articles
 
 - http://joshsymonds.com/blog/2014/06/12/shell-awesomeness-with-prezto/
