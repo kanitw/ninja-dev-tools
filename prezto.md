@@ -4,7 +4,7 @@
 ## Modules
 
 - **fasd** is a great way to jump around.  You must run `brew install fasd` to install `fasd` first.  
-- **[Syntax Highlighting](https://github.com/sorin-ionescu/prezto/tree/master/modules/syntax-highlighting)** help prevent you from writing illegal commands. 
+- **[Syntax Highlighting](https://github.com/sorin-ionescu/prezto/tree/master/modules/syntax-highlighting)** helps prevent you from writing illegal commands. 
 
 ## Other Related Articles
 
