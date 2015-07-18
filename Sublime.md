@@ -46,7 +46,13 @@ You will need to install its subpackage e.g.,  **TODO**
 
 ## Keyboard Shortcuts
 
+- `alt+enter` in the find screen will select all of the occurence (in the multiple selection mode)
+
 **TODO**
+
+## Trick
+
+- To select all text inside quotes, use `([""'])(?:(?=(\\?))\2.)*?\1` as your find RegEx.  (I put this as `quote#` in [Dash](Dash.md)
 
 ## Accessing Sublime from command line
 
